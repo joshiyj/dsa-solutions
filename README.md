@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/joshiyj/dsa-solutions/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/joshiyj/dsa-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
