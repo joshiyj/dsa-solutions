@@ -17,6 +17,15 @@ class Solution {
                 break;
             }
         }
-        Arrays.sort(nums,i,nums.length);
+        reverse(nums,i,nums.length-1);
+    }
+    public static void reverse(int[] arr, int s, int e){
+        while(s<e){
+            int temp = arr[s];
+            arr[s] = arr[e];
+            arr[e] = temp;
+            s++;
+            e--;
+        }
     }
 }
