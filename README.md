@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joshiyj/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/joshiyj/dsa-solutions/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joshiyj/dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/joshiyj/dsa-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/joshiyj/dsa-solutions/tree/master/0875-koko-eating-bananas) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/joshiyj/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/joshiyj/dsa-solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joshiyj/dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -85,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/joshiyj/dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
