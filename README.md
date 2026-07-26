@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joshiyj/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/joshiyj/dsa-solutions/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joshiyj/dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/joshiyj/dsa-solutions/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joshiyj/dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/joshiyj/dsa-solutions/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/joshiyj/dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joshiyj/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/joshiyj/dsa-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/joshiyj/dsa-solutions/tree/master/0875-koko-eating-bananas) |
 ## String
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
