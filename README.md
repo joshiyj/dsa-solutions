@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/joshiyj/dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/joshiyj/dsa-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/joshiyj/dsa-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/joshiyj/dsa-solutions/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/joshiyj/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/joshiyj/dsa-solutions/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -105,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joshiyj/dsa-solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
