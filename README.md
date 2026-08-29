@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/joshiyj/dsa-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/joshiyj/dsa-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/joshiyj/dsa-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/joshiyj/dsa-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/joshiyj/dsa-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/joshiyj/dsa-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
