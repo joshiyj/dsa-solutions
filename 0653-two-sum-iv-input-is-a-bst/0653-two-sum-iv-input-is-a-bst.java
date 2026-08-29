@@ -14,27 +14,52 @@
  * }
  */
 class Solution {
-    List<Integer> asc = new ArrayList<>();
-    public boolean findTarget(TreeNode root, int k) {
-        helper(root);
+    Stack<TreeNode> leftStack = new Stack<>();
+    Stack<TreeNode> rightStack = new Stack<>();
 
-        int i = 0;
-        int j = asc.size()-1;
-        while(i<j){
-            if(asc.get(i)+asc.get(j)==k) return true;
-            if(asc.get(i)+asc.get(j) < k){
-                i++;
-            } else {
-                j--;
-            }
+    public boolean findTarget(TreeNode root, int k) {
+        leftPush(root);
+        rightPush(root);
+
+        while(!leftStack.isEmpty() && !rightStack.isEmpty()){
+            TreeNode left = leftStack.peek();
+            TreeNode right = rightStack.peek();
+
+            if(left==right) break;
+            int val = left.val + right.val;
+
+            if(val==k) return true;
+            else if(val < k) nextLeft();
+            else nextRight();
         }
+
         return false;
     }
-    public void helper(TreeNode root){
-        if(root==null) return;
 
-        helper(root.left);
-        asc.add(root.val);
-        helper(root.right);
+    public void nextLeft(){
+        TreeNode temp = leftStack.pop();
+        if(temp.right!=null){
+            leftPush(temp.right);
+        }
+    }
+
+    public void nextRight(){
+        TreeNode temp = rightStack.pop();
+        if(temp.left!=null){
+            rightPush(temp.left);
+        }
+    }
+
+    public void leftPush(TreeNode root){
+        while(root!=null){
+            leftStack.push(root);
+            root = root.left;
+        }
+    }
+    public void rightPush(TreeNode root){
+        while(root!=null){
+            rightStack.push(root);
+            root = root.right;
+        }
     }
 }
