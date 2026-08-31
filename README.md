@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joshiyj/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/joshiyj/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joshiyj/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/joshiyj/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/joshiyj/dsa-solutions/tree/master/0113-path-sum-ii) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/joshiyj/dsa-solutions/tree/master/0113-path-sum-ii) |
