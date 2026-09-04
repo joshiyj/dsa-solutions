@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joshiyj/dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/joshiyj/dsa-solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/joshiyj/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/joshiyj/dsa-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshiyj/dsa-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joshiyj/dsa-solutions/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/joshiyj/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 ## Tree
 |  |
