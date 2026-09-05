@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/joshiyj/dsa-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshiyj/dsa-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/joshiyj/dsa-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/joshiyj/dsa-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3904-smallest-stable-index-ii](https://github.com/joshiyj/dsa-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
