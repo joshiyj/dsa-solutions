@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/joshiyj/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/joshiyj/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/joshiyj/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/joshiyj/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/joshiyj/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
