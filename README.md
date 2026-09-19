@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joshiyj/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/joshiyj/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
 ## Sorting
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joshiyj/dsa-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
