@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/joshiyj/dsa-solutions/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/joshiyj/dsa-solutions/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/joshiyj/dsa-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joshiyj/dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/joshiyj/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/joshiyj/dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/joshiyj/dsa-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/joshiyj/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/joshiyj/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/joshiyj/dsa-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
