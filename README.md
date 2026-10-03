@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/joshiyj/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/joshiyj/dsa-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/joshiyj/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/joshiyj/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/joshiyj/dsa-solutions/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/joshiyj/dsa-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/joshiyj/dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/joshiyj/dsa-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/joshiyj/dsa-solutions/tree/master/0113-path-sum-ii) |
 ## DP on Trees
 |  |
