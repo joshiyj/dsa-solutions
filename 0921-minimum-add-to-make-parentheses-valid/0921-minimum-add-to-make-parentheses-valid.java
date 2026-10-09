@@ -1,20 +1,20 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int br = 0;
+        Stack<Character> st = new Stack<>();
         int voilations = 0;
 
         for(char ch: s.toCharArray()){
             if(ch=='('){
-                br++;
+                st.push(ch);
             } else {
-                if(br==0){
+                if(st.isEmpty()){
                     voilations++;
                 } else {
-                    br--;
+                    st.pop();
                 }
             }
         }
 
-        return voilations + br;
+        return voilations + st.size();
     }
 }
