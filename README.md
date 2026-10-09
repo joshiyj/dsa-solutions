@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/joshiyj/dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/joshiyj/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/joshiyj/dsa-solutions/tree/master/0242-valid-anagram) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/joshiyj/dsa-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/joshiyj/dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/joshiyj/dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/joshiyj/dsa-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/joshiyj/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/joshiyj/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/joshiyj/dsa-solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/joshiyj/dsa-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/joshiyj/dsa-solutions/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/joshiyj/dsa-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
