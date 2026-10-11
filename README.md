@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/joshiyj/dsa-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/joshiyj/dsa-solutions/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/joshiyj/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/joshiyj/dsa-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/joshiyj/dsa-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/joshiyj/dsa-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/joshiyj/dsa-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/joshiyj/dsa-solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/joshiyj/dsa-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/joshiyj/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/joshiyj/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
